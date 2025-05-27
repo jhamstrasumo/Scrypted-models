@@ -1,6 +1,5 @@
 {
   "name": "onnx-yolov8-scrypted",
   "version": "1.0.0",
-  "main": "index.js",
   "onnx": "yolov8n.onnx"
 }
